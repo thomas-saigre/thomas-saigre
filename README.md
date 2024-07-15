@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Thomas 👋
 
 <!--
 **thomas-saigre/thomas-saigre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am actually a PhD student in applied mathematics at the [Institut de Recherche de Mathématique Avancée](https://irma.math.unistra.fr/) in Strasbourg,
+under the supervision of [Christophe Prud'homme](github.com/prudhomm) (IRMA) and [Marcela Szopos](http://helios.mi.parisdescartes.fr/~mszoposh/) (MAPP5, Université Paris Cité).
