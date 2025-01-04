@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am actually a PhD student in applied mathematics at the [Institut de Recherche de Mathématique Avancée](https://irma.math.unistra.fr/) in Strasbourg,
-under the supervision of [Christophe Prud'homme](https://github.com/prudhomm) (IRMA) and [Marcela Szopos](http://helios.mi.parisdescartes.fr/~mszoposh/) (MAP5, Université Paris Cité).
+I am research engineer at Cemosis at the [Institut de Recherche de Mathématique Avancée](https://irma.math.unistra.fr/) in the University of Strasbourg,
+<!-- under the supervision of [Christophe Prud'homme](https://github.com/prudhomm) (IRMA) and [Marcela Szopos](http://helios.mi.parisdescartes.fr/~mszoposh/) (MAP5, Université Paris Cité).-->
 
 
 [![GitHub](https://img.shields.io/badge/github-thomas--saigre-000000?logo=github)](https://github.com/thomas-saigre)
